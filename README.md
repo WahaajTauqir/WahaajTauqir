@@ -31,6 +31,3 @@ Outside of game development, I enjoy Machine Learning.
 Feel free to reach out to me for collaborations or just to say hi!
 - Email: email@example.com
 - [LinkedIn Profile] (https://www.linkdin.com/in/wahaajtauqir)https://www.linkdin.com/in/wahaajtauqir
-
-## GitHub Stats
-!Your GitHub Stats
