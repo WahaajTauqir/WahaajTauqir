@@ -1,7 +1,7 @@
 # Hello, I'm Muhammad Wahaaj Tauqir!
 
 ## About Me
-I'm a Unity game developer with a passion for creating immersive gaming experiences. I specialize in [Your Specialization], and I'm always looking to push the boundaries of what's possible in game development.
+I'm a Unity game developer with a passion for creating immersive gaming experiences. I specialize in Unity Multiplayer, and I'm always looking to push the boundaries of what's possible in game development.
 
 ## Skills
 - Unity
