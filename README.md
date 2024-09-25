@@ -29,5 +29,5 @@ Outside of game development, I enjoy Machine Learning.
 
 ## Contact
 Feel free to reach out to me for collaborations or just to say hi!
-- Email: email@example.com
+- Email: wahaajtauqir@elytrastudios.com
 - [LinkedIn Profile] (https://www.linkdin.com/in/wahaajtauqir)https://www.linkdin.com/in/wahaajtauqir
