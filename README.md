@@ -1,69 +1,165 @@
-# 👋 Muhammad Wahaaj Tauqir
+# 👋 Muhammad Wahaaj Tauqir  
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=VR+%2F+AR+Developer;Software+Engineer;Game+Developer;3D+Generalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Senior+Software+Engineer;VR+%2F+AR+Developer;Unity+Specialist;Full-Stack+%2B+ML+Engineer;3D+Generalist" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+---
 
-Software Engineer specializing in VR/AR development with extensive experience building immersive applications for Oculus Quest and other platforms. Currently working at Elytra Studios while completing my BS in Computer Science at Bahria University. I combine technical expertise with creative 3D skills to deliver high-quality interactive experiences.
+## 🚀 About Me  
 
-## 🔧 Skills
+Senior Software Engineer at **Elytra Studios** with 3+ years of professional experience building scalable VR/AR applications, multiplayer games, and full-stack cloud systems.
 
-### Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I specialize in:
 
-### Tools & Technologies
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+- 🔹 Immersive VR/AR development (Meta Quest, OpenXR, AR Foundation)
+- 🔹 Multiplayer architecture using Photon
+- 🔹 CI/CD pipelines for Unity projects
+- 🔹 Cloud deployments (Google Cloud Platform)
+- 🔹 Full-stack + ML systems (React, Flask, PostgreSQL)
 
-### Design Tools
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/-Substance%20Painter-B82435?style=flat-square&logo=substance-painter&logoColor=white)
+Currently completing my **BS in Computer Science (Jan 2026)** at Bahria University.  
+GPA: **3.27 / 4.0**
 
-## 🏆 Featured Projects
+---
 
-### NEAR VR
-- Fully customizable UI for augmenting 3D and 360 video content in VR
-- REST API integration for content loading
-- Complete development with detailed documentation
+## 🏢 Experience  
 
-### VR Military & Medical Simulations
-- First aid VR simulation for military personnel training
-- Medical simulation with multiple stages and zones
-- Firebase integration for data management
+### 🧑‍💻 Senior Software Engineer  
+**Elytra Studios** | Oct 2025 – Present  
 
-### VR Grinding Mill
-- Multiplayer VR industrial simulation
-- Optimized scenes with dissolve shader animations and heavy machinery simulations
-- Project management and development lead
+- Key technical role in Unity development team  
+- Client meetings, documentation, and task delegation  
+- CI/CD pipeline management for Unity projects  
+- App deployments to App Store Connect & Google Play Console  
+- Technical recruitment and candidate evaluations  
 
-### Penalty Pursuit
-- Multiplayer mobile game using Photon PUN2 
-- Published on app stores
-- Complex game mechanics implementation
+---
 
-## 🎓 Education
+### 🧑‍💻 Associate Software Engineer  
+**Elytra Studios** | Sep 2024 – Sep 2025  
 
-- BS in Computer Science, Bahria University (Expected Jan 2026)
-- GPA: 3.1/4.0
+- Built geolocation-based AR apps and VR systems  
+- Optimized WebGL deployments (Brotli & Gzip → 60%+ faster loading)  
+- Developed high-quality mobile games using Unity  
 
-## 📫 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahaajtauqir)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahaaj.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wahaaj.dev)
+### 🧑‍💻 Jr. Software Engineer  
+**Elytra Studios** | Oct 2023 – Aug 2024  
 
-## 📊 GitHub Stats
+- Developed military & medical VR simulations  
+- Implemented multiplayer systems using Photon  
+- Integrated Firebase, Ads SDKs, and async workflows  
+- Worked with shader graphs, blend trees & particle systems  
+
+---
+
+### 🎨 3D Generalist (Part-Time)  
+**Elytra Studios** | Dec 2022 – Sep 2023  
+
+- Modeling, UV mapping, animation, texturing  
+- Delivered assets for international clients  
+
+---
+
+## 🏆 Key Projects  
+
+### 🤖 Automated Credit Scoring System (FYP – 1st Position Open House 2026)  
+
+- Explainable & audit-able ML credit scoring system  
+- Reduced scorecard creation time by **95%**  
+- Built with: Python, Flask, React, TypeScript, PostgreSQL  
+- Deployed on Google Cloud Platform  
+- CI/CD via GitHub Actions  
+
+---
+
+### 🥽 VR Training & Simulation Suite  
+
+- 6+ modular VR simulations (medical, military, industrial)  
+- Real-time smartwatch heart-rate integration  
+- Multiplayer architecture  
+- Firebase + REST APIs  
+- Plug-and-play VR framework delivery  
+
+**Tech:** C#, Meta SDK, OpenXR, Firebase  
+
+---
+
+### 🌍 Location-Based AR & WebAR Systems  
+
+- GPS-driven AR content spawning  
+- Mapbox integration  
+- Web AR promotional experiences  
+- MediaPipe hand tracking for physiotherapy training  
+
+---
+
+### 🎮 Multiplayer & Mobile Games  
+
+- Real-time multiplayer 3D game (Photon PUN2)  
+- Pet-care AI-driven mobile game  
+- Play Store published titles  
+- NavMesh AI, RPC systems, monetization  
+
+---
+
+## 🛠 Technical Skills  
+
+### 💻 Programming  
+- **Advanced:** C++, C#  
+- **Intermediate:** Python, TypeScript, JavaScript, HTML, CSS  
+
+### 🧰 Development  
+- **Advanced:** Unity, Git  
+- **Intermediate:** Unreal Engine, React, Node.js, Angular  
+
+### 🗄 Database  
+- Firebase  
+- PostgreSQL  
+- SQL Server  
+
+### ☁ Deployment  
+- Google Cloud Platform  
+- App Store Connect  
+- Google Play Console  
+- CI/CD for Unity  
+
+### 🎨 Design  
+- Blender (Advanced)  
+- Photoshop  
+- Substance Painter  
+
+---
+
+## 📜 Certifications  
+
+- Business Foundations – Wharton (Coursera)  
+- Google Advanced Data Analytics Professional Certificate  
+- Google Cybersecurity Specialization  
+- Google Project Management Professional Certificate  
+
+---
+
+## 🏅 Achievements  
+
+- 🏆 3x Employee of the Month – Elytra Studios  
+- 🥇 Game Jam Winner (In-house competition)  
+- 🎤 GDSC Bootcamp Speaker – Built endless runner live  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahaajtauqir)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahaaj.dev@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wahaaj.dev)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WahaajTauqir)
+
+---
+
+## 📊 GitHub Stats  
 
 <a href="https://github.com/WahaajTauqir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WahaajTauqir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
